@@ -108,7 +108,7 @@
     "worker-pouch": "git+https://github.com/jkleinsc/worker-pouch.git"
   },
   "dependencies": {
-    "electron-compile": "^6.3.0",
+    "electron-compile": "^6.4.2",
     "electron-localshortcut": "^1.1.1",
     "electron-protocol-serve": "1.3.0"
   },
